@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Nutrition alimentaire</string>
+
+    <string name="food_nutrition_text">Entrez les aliments pour vérifier les informations nutritionnelles </string>
+
+    <string name="query_edit_text">%S</string>
+    <string name="query_edit_text_hint">Entrez l\'aliment ou l\'ingrédient ici</string>
+    <string name="information_button_text">Obtenir des informations </string>
+
+    <string name="name">%s</string>>
+    <string name="caloriesLabel"> Calories</string>
+    <string name="totalFatLabel">Graisse totale</string>
+    <string name="proteinLabel">Protéine</string>
+    <string name="carbsLabel">Les glucides</string>
+</resources>

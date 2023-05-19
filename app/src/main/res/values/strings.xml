@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Food Nutrition</string>
+
+    <string name="food_nutrition_text">Enter Food to Check Nutritional Information </string>
+
+    <string name="query_edit_text">%S</string>
+    <string name="query_edit_text_hint">Enter Food or Ingredient here</string>
+    <string name="information_button_text">Get Information </string>
+
+    <string name="name">%s</string>>
+    <string name="caloriesLabel"> Calories</string>
+    <string name="totalFatLabel">Total Fat</string>
+    <string name="proteinLabel">Protein</string>
+    <string name="carbsLabel">Carbohydrates</string>
+</resources>
